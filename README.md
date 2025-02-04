@@ -6,7 +6,7 @@
 
 ![population_graph](https://github.com/user-attachments/assets/3f17bd93-947c-4db3-a330-818983107710)
 
-## *Exercise 2: (Score : 3) Create a scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students.*
+## *Exercise 2: Create a scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students.*
 ## *Use the following data:* 
 ## *Hours Studied: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]*
 ## *Test Scores: [93, 57, 61, 54, 51, 53, 87, 81, 83, 85]*
